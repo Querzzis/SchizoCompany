@@ -1,3 +1,24 @@
-.welcome {
-    color: black;
+body {
+    background-color: gray;
+    font-family: cursive;
 }
+
+.Head {
+    position: fixed;
+    display: block;
+    width: 100%;
+    left: 0;
+    right: 0;
+    top: 0;
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-size: 20px;
+}
+
+.unselectable {
+    -moz-user-select: none;
+    -khtml-user-select: none;
+    -webkit-user-select: none;
+    user-select: none;
+  }
