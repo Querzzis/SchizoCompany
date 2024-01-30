@@ -23,8 +23,11 @@ body {
     margin-right: auto;
     width: 80%;
     background-color: rgba(0, 0, 0, 0.5);
-    color: white;
     text-align: center;
+}
+
+.whiteText {
+    color: white;
 }
 
 .unselectable {
