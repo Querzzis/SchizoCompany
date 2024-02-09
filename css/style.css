@@ -53,7 +53,7 @@ h4 {
 
 h5 {
     color: white;
-    line-height: 1px;
+    line-height: 11px;
 }
 
 h6 {
@@ -66,7 +66,7 @@ p {
 }
 
 .note {
-    line-height: 1px;
+    line-height: 17px;
     margin-bottom: 10px;
     margin-top: 10px;
     color: white;
@@ -99,6 +99,11 @@ button {
     background-color: transparent;
     color: greenyellow;
     cursor: pointer;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
 }
 
 .unselectable {
