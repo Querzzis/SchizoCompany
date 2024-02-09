@@ -18,16 +18,64 @@ body {
 }
 
 .MainBody {
-    display: table;
-    margin-left: auto;
-    margin-right: auto;
+    display: block;
+    position: relative;
+    margin: auto;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    top: 10px;
     width: 80%;
-    background-color: rgba(0, 0, 0, 0.5);
+    background-color: rgb(50, 50, 50, 0.9);
+    border-radius: 25px;
+    text-align: center;
+    line-height: 10px;
+}
+
+h1 {
+    color: white;
+    line-height: 50px;
+}
+
+h2 {
+    color: white;
+}
+
+h4 {
+    color: white;
+}
+
+h6 {
+    line-height: 1px;
+    margin-top: -10px;
+    margin-bottom: 35px;
+}
+
+.note {
+    line-height: 1px;
+    margin-top: -10px;
+    margin-bottom: 35px;
+    color: white;
+}
+
+footer {
+    background-color: rgb(50, 50, 50, 0.9);
+    position: relative;
+    margin: auto;
+    padding: 10px;
+    top: 30px;
+    width: max-content;
+    border-radius: 25px;
     text-align: center;
 }
 
-.whiteText {
-    color: white;
+iframe {
+    border-radius: 25px;
+    margin-bottom: 20px;
+}
+
+a {
+    text-decoration: none;
+    color: pink;
 }
 
 .unselectable {
