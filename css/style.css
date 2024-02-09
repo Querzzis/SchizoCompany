@@ -28,7 +28,7 @@ body {
     background-color: rgb(50, 50, 50, 0.9);
     border-radius: 25px;
     text-align: center;
-    line-height: 15px;
+    line-height: 17px;
 }
 
 h1 {
@@ -92,6 +92,13 @@ iframe {
 a {
     text-decoration: none;
     color: pink;
+}
+
+button {
+    border-style: hidden;
+    background-color: transparent;
+    color: greenyellow;
+    cursor: pointer;
 }
 
 .unselectable {
