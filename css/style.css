@@ -55,7 +55,10 @@ h6 {
 }
 
 .note {
-
+    line-height: 1px;
+    margin-bottom: 25px;
+    margin-top: 14px;
+    color: white;
 }
 
 footer {
