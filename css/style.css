@@ -51,8 +51,18 @@ h4 {
     color: white;
 }
 
+h5 {
+    color: white;
+    line-height: 1px;
+}
+
 h6 {
     color: white;
+}
+
+p {
+    color: white;
+    line-height: 5px;
 }
 
 .note {
