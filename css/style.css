@@ -28,7 +28,7 @@ body {
     background-color: rgb(50, 50, 50, 0.9);
     border-radius: 25px;
     text-align: center;
-    line-height: 10px;
+    line-height: 15px;
 }
 
 h1 {
@@ -67,8 +67,8 @@ p {
 
 .note {
     line-height: 1px;
-    margin-bottom: 20px;
-    margin-top: 15px;
+    margin-bottom: 10px;
+    margin-top: 10px;
     color: white;
 }
 
@@ -93,6 +93,8 @@ a {
     text-decoration: none;
     color: pink;
 }
+
+
 
 .unselectable {
     -moz-user-select: none;
